@@ -40,7 +40,7 @@
   "private": true,
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jszip": "^3.1.5",
     "react-color": "^2.14.1",
     "react-dom": "^16.4.1",
